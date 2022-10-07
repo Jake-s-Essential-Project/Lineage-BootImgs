@@ -1,0 +1,1 @@
+Extraction of Bootimgs for root with Magisk on the Essential Phone PH1.
